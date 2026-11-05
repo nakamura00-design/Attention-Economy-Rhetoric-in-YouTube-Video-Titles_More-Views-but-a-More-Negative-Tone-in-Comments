@@ -107,10 +107,6 @@ release; the repository focuses on the manuscript's primary M0–M3 analyses.
 
 ## Contents
 
-- `DATA_AVAILABILITY.md` — proposed manuscript statement and staged-release policy.
-- `PUBLICATION_POLICY.md` — field-by-field publication decision.
-- `DATA_DICTIONARY.md` — intended public schema and redaction rules.
-- `RELEASE_MANIFEST.csv` — current release inventory; empty entries mean that no file is being redistributed yet.
 - `data/README.md` — safe data-release workflow.
 - `code/README.md` — code-release workflow and provenance.
 - `data/main_analysis_input_n10013_sanitized.csv` — sanitized main-analysis input.
